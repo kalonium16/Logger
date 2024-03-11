@@ -1,2 +1,2 @@
-**This is simple C++ header only Logger Multithreading library.**
+**This is simple C++ header-only Multithreading Logger library.**
 
